@@ -22,7 +22,7 @@
     <poi.ooxml.version>3.17</poi.ooxml.version>
     <slf4j-api.version>1.7.13</slf4j-api.version>
     <slf4j-log4j12.version>${slf4j-api.version}</slf4j-log4j12.version>
-    <commons-lang3>3.8.1</commons-lang3>
+    <commons-lang3>3.18.0</commons-lang3>
   </properties>
   
   
